@@ -291,7 +291,7 @@ img {
    banner <img> (give it the class landscape-banner__img) so it
    fills the section. Same approach as Task 3. */
 
-.landscape-banner_img {
+.landscape-banner__img {
   position: absolute;
   inset: 0;
   width: 100%;
